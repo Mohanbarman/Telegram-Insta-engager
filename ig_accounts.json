@@ -1,0 +1,10 @@
+{
+    "ac1": {
+        "username": "username_of_first_account",
+        "password": "password"
+    },
+    "ac2": {
+        "username": "username_of_first_account",
+        "password": "password"
+    }
+}
